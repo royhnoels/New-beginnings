@@ -5,3 +5,6 @@
 # Edited by Collaborator A
 >>>>>>> dev-feature
 # New Beginnings
+## Contact
+
+Email: example@example.com
